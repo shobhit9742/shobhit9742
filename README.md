@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Gupta</h1>
-<h3 align="center">Full-Stack Developer | India
-Passionate Full-Stack Developer skilled in building web applications using React, Node.js, and databases like MySQL and MongoDB. I focus on creating seamless user experiences and scalable backend systems with clean, efficient code.</h3>
-
+<h3 align="center">Full-Stack Developer | India</h3>
+<p align="center">Passionate Full-Stack Developer skilled in building web applications using React, Node.js, and databases like MySQL and MongoDB. I focus on creating seamless user experiences and scalable backend systems with clean, efficient code.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit9742&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit9742" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhit9742" alt="shobhit9742" /></a> </p>
