@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Gupta</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">Full-Stack Developer | India
+Passionate and skilled Full-Stack Developer with expertise in building dynamic web applications. Proficient in both frontend and backend development, I specialize in JavaScript frameworks like React, Node.js, and databases like MySQL and MongoDB. With a strong focus on crafting seamless user experiences and scalable backend systems, I thrive on solving complex problems through clean and efficient code. Continuously learning and evolving, I am driven by the goal of creating impactful, user-centric applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit9742&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit9742" /> </p>
 
