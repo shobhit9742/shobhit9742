@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhit9742" alt="shobhit9742" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-- 👨‍💻 All of my projects are available at [https://portfolio-mtvsvr9mi-shobhit9742s-projects.vercel.app/](https://portfolio-mtvsvr9mi-shobhit9742s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-mtvsvr9mi-shobhit9742s-projects.vercel.app/
 
 - 💬 Ask me about **MERN**
 
