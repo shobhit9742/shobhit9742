@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shobhitgupta0602@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=661eb3fa96903a509cb33231](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=661eb3fa96903a509cb33231)
+- 📄 Know about my experiences https://drive.google.com/file/d/1FwVU0lbpO-oc-m3-wW0M654SCppJMd9H/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
